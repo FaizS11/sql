@@ -55,8 +55,6 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 ```
 Your answer...
-Customer_Address_1_Overwrite_Address -> Type 1 - Overwrite Address
-Customer_Address_2_Retain_Address -> Type 2 - Add new line item and keeping all addresses
 ```
 
 ***
